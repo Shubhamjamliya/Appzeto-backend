@@ -64,7 +64,7 @@ User-Auth-Backend/
 
 ```bash
 git clone <your-repo-link>
-cd User-Auth-Backend
+cd Appzeto-backend
 ```
 
 ### 2. Install dependencies
@@ -190,6 +190,11 @@ db.users.updateOne({email: "test@example.com"}, {$set: {role: "admin"}})
 ---
 ## 🧱 Postman link:
 https://winter-satellite-408845.postman.co/workspace/cb7ec392-0b12-4e4d-8f5c-9ab38d740e20/collection/32211594-5acfb9fe-b512-4181-92fe-0cbc8c093208?action=share&source=copy-link&creator=32211594
+
+## Bonus points tasks i have completed:
+Refresh token implementation
+● API documentation with example requests
+● Postman collection
 
 
 ## 🏁 Conclusion
